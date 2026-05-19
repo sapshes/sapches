@@ -13,9 +13,9 @@ ghhh
  <summary>idk</summary>
     
   <p align="left" dir="auto" >  
- <img align="left" width="210" src="https://github.com/sapshes/sapches/blob/5a7e636d30a4e76f92260b1891ae120bee497acf/3e8414303daca9dfb3b1fe65639bee59.jpg">
+ <img align="left" width="210" src="https://github.com/sapshes/sapches/blob/90ac59b92b264080488f401eadee6fa5b100500a/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F41_20260519143336.png">
  <img align="right" width="210"
- src="https://github.com/sapshes/sapches/blob/5a7e636d30a4e76f92260b1891ae120bee497acf/3e8414303daca9dfb3b1fe65639bee59.jpg">
+src="https://github.com/sapshes/sapches/blob/90ac59b92b264080488f401eadee6fa5b100500a/3d0dd9a700b29207a7d6effc39ffb35f.jpg">
     
 </p>   
 <p>qq</p>
