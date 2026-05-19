@@ -6,12 +6,24 @@
 ghhh
 <br clear="both">
 
-<details>
-  <summary>Нажми на стрелочку 👈</summary>
-  
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <span><strong>c:</strong>...</span>
-    <img src="https://github.com/sapshes/sapches/blob/58f56cc2ef31d4de65e3c80c8ac3d3dd1762255f/3e8414303daca9dfb3b1fe65639bee59.jpg" width="70">
-  </div>
+<br>
+</p>
+ <div align="center">
+  <details>
+ <summary>idk</summary>
+    
+  <p align="left" dir="auto" >  
+ <img align="left" width="210" src="https://github.com/sapshes/sapshes/blob/ad1dd4baf760812a1b3d69d5f9e19affa174d026/IMG_20260427_192329_353.jpg">
+    
+</p>   
+<p>qq</p>
+<p>q</p>
+<p></p>
+<p></p>
+<p></p>
+    
+</details>
+
+<br>
   
 </details>
