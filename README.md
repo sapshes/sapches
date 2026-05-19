@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/sapshes/sapches/blob/6d506111c294cd9df28b15592896514c68be6c63/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F42_20260519145535.png" width="400">
+<img src="https://github.com/sapshes/sapches/blob/6d506111c294cd9df28b15592896514c68be6c63/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F42_20260519145535.png" width="600">
 </p>
 
 
