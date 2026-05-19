@@ -30,7 +30,7 @@ src="https://github.com/sapshes/sapches/blob/90ac59b92b264080488f401eadee6fa5b10
     
   <p align="left" dir="auto">  
  <img align="right" width="150" src="https://github.com/sapshes/sapches/blob/1e8ce941e78dfda56622f1b868f8a3e78b27bf33/4121a3b80c88f19d5bdd8b9f1f3c148c.jpg">
- <img align="left" width="200"
+ <img align="left" width="300"
 src="https://github.com/sapshes/sapches/blob/1e8ce941e78dfda56622f1b868f8a3e78b27bf33/34163f01e05952044d827f625bcb8be9.jpg">
 
 </p>   
