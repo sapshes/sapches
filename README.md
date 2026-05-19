@@ -15,8 +15,8 @@
 src="https://github.com/sapshes/sapches/blob/90ac59b92b264080488f401eadee6fa5b100500a/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F41_20260519143336.png">
     
 </p>   
-<p>qq</p>
-<p>q</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
